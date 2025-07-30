@@ -23,7 +23,7 @@ get_header();
 
     <!-- Destination Card 2 -->
     <div class="col" data-aos="zoom-in" data-aos-delay="100">
-      <div class="card h-100 shadow-sm border-0">
+      <div class="card h-99 shadow-sm border-0">
         <img src="https://source.unsplash.com/400x300/?rome,italy" class="card-img-top" alt="Rome">
         <div class="card-body">
           <h5 class="card-title">🇮🇹 Rome, Italy</h5>
